@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Trishan Wagle</h1>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trishan9&label=Profile%20views&color=0e75b6&style=flat" alt="trishan9" /> </p>
 
