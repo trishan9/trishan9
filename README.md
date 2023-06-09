@@ -21,7 +21,6 @@
 ![CSS](https://skillicons.dev/icons?i=css "CSS")
 ![HTML](https://skillicons.dev/icons?i=html "HTML")
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")
-![jQuery](https://skillicons.dev/icons?i=jquery "jQuery")
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![Figma](https://skillicons.dev/icons?i=figma "Figma")
 ![C Programming](https://skillicons.dev/icons?i=c "C Programming")
