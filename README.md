@@ -1,8 +1,10 @@
-<h1 align="left">Hi 👋, I'm Trishan Wagle</h1>
+<h1 align="center">Hi 👋, I'm Trishan Wagle</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trishan9&label=Profile%20views&color=db0606&style=flat" alt="trishan9" /> </p>
 
 `🌱 I’m currently learning Next JS`
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/trishan-wagle-5b499722b/" target="_blank">
@@ -28,28 +30,11 @@
 ![Figma](https://skillicons.dev/icons?i=figma "Figma")
 ![C Programming](https://skillicons.dev/icons?i=c "C Programming")
 
----
+## Analytics:
 <p>
   <img 
   align="left" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=trishan9&show_icons=true&locale=en&layout=compact&theme=tokyonight"" 
-  alt="trishan9" 
-  />
-</p>
-
-<p>
-  &nbsp;
-  <img 
-  align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=trishan9&show_icons=true&locale=en&theme=tokyonight" 
-  alt="trishan9" 
-  />
-</p>
-
-<p>
-  <img 
-  align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=trishan9&&theme=tokyonight" 
   alt="trishan9" 
   />
 </p>
