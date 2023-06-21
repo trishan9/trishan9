@@ -31,10 +31,4 @@
 ![C Programming](https://skillicons.dev/icons?i=c "C Programming")
 
 ## Analytics:
-<p>
-  <img 
-  align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=trishan9&show_icons=true&locale=en&layout=compact&theme=tokyonight"" 
-  alt="trishan9" 
-  />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell&layout=donut-vertical)](https://github.com/trishan9/github-readme-stats)
