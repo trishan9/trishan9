@@ -7,7 +7,7 @@
 ## Languages and Tools:
 <p align="center">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,graphql,next,astro,tailwind,sass,firebase,mui,bootstrap,figma,git,github,c,md,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,graphql,next,astro,gatsby,tailwind,sass,firebase,mui,bootstrap,figma,git,github,c,md,bash,linux" />
 </a>
 </p>
 
