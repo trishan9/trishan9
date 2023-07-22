@@ -11,7 +11,7 @@
 </p>
 
 ## 📖 Learning
-[![Learning](https://skillicons.dev/icons?i=svelte,wordpress)](#)
+[![Learning](https://skillicons.dev/icons?i=svelte,jest,wordpress)](#)
 
 ## 🔗 Connect with me
 
