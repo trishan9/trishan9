@@ -6,12 +6,12 @@
 <p align="center">
 <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,js,next,react,redux,graphql,solidjs,astro,gatsby,tailwind,sass,firebase,supabase,appwrite,postman" />
-    <img src="https://skillicons.dev/icons?i=gcp,babel,webpack,vite,mui,bootstrap,css,figma,git,github,gitlab,c,md,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=gcp,vite,mui,styledcomponents,emotion,bootstrap,css,figma,git,github,gitlab,c,md,bash,linux" />
 </a>
 </p>
 
 ## 📖 Learning
-[![Learning](https://skillicons.dev/icons?i=svelte,jest)](#)
+[![Learning](https://skillicons.dev/icons?i=svelte)](#)
 
 ## 🔗 Connect with me
 
