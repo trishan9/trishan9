@@ -11,7 +11,7 @@
 </p>
 
 ## 📖 Learning
-[![Learning](https://skillicons.dev/icons?i=wordpress)](#)
+[![Learning](https://skillicons.dev/icons?i=python)](#)
 
 ## 🔗 Connect with me
 
@@ -25,4 +25,4 @@
 </p>
 
 ## 📑 Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,Dockerfile&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,cpp,cmake,rust,Dockerfile&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
