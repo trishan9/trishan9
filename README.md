@@ -11,7 +11,7 @@
 </p>
 
 ## 📖 Learning
-[![Learning](https://skillicons.dev/icons?i=python)](#)
+[![Learning](https://skillicons.dev/icons?i=python,nodejs,expressjs,mongodb)](#)
 
 ## 🔗 Connect with me
 
