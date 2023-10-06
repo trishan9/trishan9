@@ -5,13 +5,13 @@
 ## ⚙️ Languages and Skills
 <p align="center">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,next,react,redux,graphql,solidjs,astro,gatsby,tailwind,sass,firebase,supabase,appwrite,postman" />
-    <img src="https://skillicons.dev/icons?i=gcp,vite,mui,styledcomponents,emotion,bootstrap,css,figma,git,github,gitlab,c,md,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,next,react,nodejs,express,python,prisma,mysql,postgres,mongodb,graphql,solidjs,astro,tailwind" />
+    <img src="https://skillicons.dev/icons?i=sass,firebase,supabase,appwrite,postman,vite,figma,git,c,bash,linux" />
 </a>
 </p>
 
 ## 📖 Learning
-[![Learning](https://skillicons.dev/icons?i=python,nodejs,expressjs,mongodb)](#)
+[![Learning](https://skillicons.dev/icons?i=vue)](#)
 
 ## 🔗 Connect with me
 
