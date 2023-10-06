@@ -11,7 +11,7 @@
 </p>
 
 ## 📖 Learning
-[![Learning](https://skillicons.dev/icons?i=vue)](#)
+[![Learning](https://skillicons.dev/icons?i=django,flask,fastapi)](#)
 
 ## 🔗 Connect with me
 
