@@ -25,4 +25,4 @@
 </p>
 
 ## 📑 Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,rust,c,Dockerfile&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
