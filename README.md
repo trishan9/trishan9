@@ -2,16 +2,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trishan9&label=Profile%20views&color=db0606&style=flat" alt="trishan9" /> </p>
 
-## ⚙️ Languages and Skills
-<p align="center">
-<a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,next,react,nodejs,express,python,prisma,mysql,postgres,mongodb,graphql,solidjs,astro,tailwind" />
-    <img src="https://skillicons.dev/icons?i=sass,firebase,supabase,appwrite,postman,vite,figma,git,c,bash,linux" />
-</a>
-</p>
+## ⚙️ Skills
 
-## 📖 Learning
-[![Learning](https://skillicons.dev/icons?i=django,flask,fastapi)](#)
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,tailwind,scss,mui,bootstrap,styledcomponents,emotion,html,css)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,next,graphql,django,flask,fastapi,firebase,supabase,appwrite)
+
+#### Databases
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)
+
+#### Other Tools & Technologies
+![Others](https://skillicons.dev/icons?i=figma,postman,vite,bash,aws,docker,git,markdown,netlify,vercel,linux)
+
+<br/>
 
 ## 🔗 Connect with me
 
@@ -24,5 +32,10 @@
     </a>
 </p>
 
-## 📑 Analytics
+<br/>
+
+## 📑 Github Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=trishan9&theme=tokyonight)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
+
