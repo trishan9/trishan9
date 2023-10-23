@@ -19,8 +19,6 @@
 #### Other Tools & Technologies
 ![Others](https://skillicons.dev/icons?i=figma,postman,vite,bash,aws,docker,git,markdown,netlify,vercel,linux)
 
-<br/>
-
 ## 🔗 Connect with me
 
 <p align="left">
@@ -31,8 +29,6 @@
       <img align="center" src="https://skillicons.dev/icons?i=twitter"/>
     </a>
 </p>
-
-<br/>
 
 ## 📑 Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=trishan9&theme=tokyonight)
