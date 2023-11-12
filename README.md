@@ -11,13 +11,16 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,tailwind,scss,mui,bootstrap,styledcomponents,emotion,html,css)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,next,graphql,django,flask,fastapi,firebase,supabase,appwrite)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,next,graphql,django,fastapi)
+
+#### BaaS
+![Backend Technologies](https://skillicons.dev/icons?i=firebase,supabase,appwrite)
 
 #### Databases
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize,redis)
 
 #### Other Tools & Technologies
-![Others](https://skillicons.dev/icons?i=figma,postman,vite,bash,aws,docker,git,markdown,netlify,vercel,linux)
+![Others](https://skillicons.dev/icons?i=figma,postman,vite,webpack,babel,bash,aws,docker,git,markdown,netlify,vercel,linux)
 
 ## 🔗 Connect with me
 
