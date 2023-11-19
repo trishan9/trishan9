@@ -31,6 +31,9 @@
     <a href="https://twitter.com/trishan999" target="_blank">
       <img align="center" src="https://skillicons.dev/icons?i=twitter"/>
     </a>
+    <a href="https://stackoverflow.com/users/22464946/" target="_blank">
+      <img align="center" src="https://skillicons.dev/icons?i=stackoverflow"/>
+    </a>
 </p>
 
 ## 📑 Github Stats
