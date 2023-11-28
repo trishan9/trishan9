@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trishan Wagle</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trishan9&label=Profile%20views&color=db0606&style=flat" alt="trishan9" /> </p>
+<p align="left"> <img src="https://user-badge.committers.top/nepal_public/trishan9.svg" alt="trishan9" /> </p>
+
 
 ## ⚙️ Skills
 
