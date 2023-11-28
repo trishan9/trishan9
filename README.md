@@ -37,6 +37,7 @@
 </p>
 
 ## 📑 Github Stats
+![Gist Card](https://github-readme-stats.vercel.app/api?username=trishan9&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ![GitHub Streak](https://streak-stats.demolab.com?user=trishan9&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
