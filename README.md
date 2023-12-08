@@ -6,22 +6,22 @@
 
 ## ⚙️ Skills
 
-#### Programming Languages
+### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,python)
 
-#### Frontend Technologies
+### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,tailwind,scss,mui,bootstrap,styledcomponents,emotion,html,css)
 
-#### Backend Technologies
+### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,next,graphql,django,fastapi)
 
-#### BaaS
+### BaaS
 ![Backend Technologies](https://skillicons.dev/icons?i=firebase,supabase,appwrite)
 
-#### Databases
+### Databases
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize,redis)
 
-#### Other Tools & Technologies
+### Other Tools & Technologies
 ![Others](https://skillicons.dev/icons?i=figma,postman,vite,webpack,babel,bash,aws,docker,git,markdown,netlify,vercel,linux)
 
 ## 🔗 Connect with me
