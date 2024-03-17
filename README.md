@@ -44,5 +44,5 @@
 ![Gist Card](https://github-readme-stats.vercel.app/api?username=trishan9&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ![GitHub Streak](https://streak-stats.demolab.com?user=trishan9&theme=tokyonight)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c,lua,astro,c%2B%2B,assembly&layout=donut-vertical&theme=tokyonight&langs_count=7)](https://github.com/trishan9/github-readme-stats)
 
