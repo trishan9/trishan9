@@ -2,7 +2,7 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=trishan9&label=Profile%20views&color=db0606&style=flat" alt="trishan9" />
-    <img src="https://user-badge.committers.top/nepal_public/trishan9.svg" alt="trishan9" />
+    <img src="https://user-badge.committers.top/nepal_private/trishan9.svg" alt="trishan9" />
 </p>
 
 Hi, I'm Trishan Wagle, a Full Stack Developer 🚀 from Nepal. I am a self taught developer, FOSS lover, linux enthusiast. I work mainly on JS and Go. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. My favorite part of programming is the problem-solving and logic-building thing. When I'm not coding, I enjoy writing tech-related blogs on Medium, reading non-fiction books, and playing guitar. I also enjoy learning new things.
