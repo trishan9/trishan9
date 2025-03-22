@@ -11,9 +11,8 @@ Hi, I'm Trishan Wagle, a Full Stack Developer 🚀 from Nepal. I am a self taugh
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🌱 I’m currently learning Advanced Backend and DevOps; 
-- 🤔 I’m looking for help with DSA 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning Data Science, AI; 
+- 💬 Ask me about anything in tech, I am happy to help;
 - ⚡️ My Portfolio Website: https://trishanwagle.tech/;
 - 📫 How to reach me: mailtotrishan@gmail.com;
 
