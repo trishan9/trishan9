@@ -2,7 +2,7 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=trishan9&label=Profile%20views&color=db0606&style=flat" alt="trishan9" />
-    <img src="https://user-badge.committers.top/nepal_private/trishan9.svg" alt="trishan9" />
+    <img src="https://user-badge.committers.top/nepal_public/trishan9.svg" alt="trishan9" />
 </p>
 
 Hi, I’m Trishan Wagle, a full-stack developer from Nepal with a strong interest in building intelligent softwares. I work primarily with JavaScript, Python and Go, and I’m currently focused on learning machine learning and AI. I’m a self-taught developer, open-source lover, and linux enthusiast who enjoys mathematics, problem-solving and systems thinking.
